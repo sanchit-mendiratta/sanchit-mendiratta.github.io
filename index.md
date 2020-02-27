@@ -56,7 +56,7 @@ I started my professional career as an Intern at SAP Labs Gurgaon. During this p
 
 Email: sanchit.zidane@gmail.com
 
-Phone: +12065364638
+Phone: +12065528343
 
 [LinkedIn](https://www.linkedin.com/in/sanchitmendiratta/)
 

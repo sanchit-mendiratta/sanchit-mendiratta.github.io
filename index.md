@@ -7,7 +7,21 @@ layout: default
 ## About Me
 I am a Result-oriented Software Engineer proficient in building web applications, passionate about Front-End Web Development and a JavaScript enthusiast. I want to develop applications that are highly performant, are accessible, have a beautiful design and are loved by customers worldwide. I am known for being a Team Player with good communication skills and for taking initiatives towards process improvements.
 
+## Technical Skills
+
+| Skills |||
+|-|-|-|
+| JavaScript | HTML | CSS |
+| React | Angular | jQuery |
+| SASS | Bootstrap | NodeJs | 
+| Express | DynamoDB | AWS Lambdas |
+
 ## Professional Experience
+
+### Software Development Engineer II @ AWS, Seattle, WA (USA) 
+#### (APRIL 2020 - Present)
+
+ I am currently working with AWS Legal Team at Amazon as an SDE - II on a contract role. I am working on a product for attorneys and I am the sole frontend developer on the team responsible for developing the entire UI for the application using Angular, HTML and SAAS. I am working with AWS Lambdas, NodeJs, Javascript, Bootstrap, Elastic Search, DynamoDB on a Serverless Architecture, occasionally contributing to building backend REST apis as well.
 
 ### UI Engineer II @ Snapdeal.com, Gurgaon (India) 
 #### (JUNE 2018 - SEPTEMBER 2019)
@@ -38,19 +52,6 @@ I started my professional career as an Intern at SAP Labs Gurgaon. During this p
 
 ### Bachelor of Technology in Information Technology (CGPA: 8.2) @ Jaypee University of Information Technology, Waknaghat (Solan) 
 #### (JULY 2011 - JUNE 2015)
-
-## Technical Skills
-
-- JavaScript 
-- ReactJs/PreactJs
-- HTML
-- CSS
-- jQuery
-- SASS
-- LESS
-- Bootstrap
-- NodeJs
-- Java 
 
 ## Contact Information
 
